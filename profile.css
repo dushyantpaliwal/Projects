@@ -1,0 +1,206 @@
+.my_image1{
+        display: block;
+        width: 100%;
+        height: auto;
+      
+}
+.image_container {
+    position: relative;
+    display: inline-block;
+  }
+  .image_container a{
+    color: #fdfdfd;
+    text-decoration: none;
+  }
+  .Over_text1 {
+    position: absolute;
+    top: 39%; 
+    left: 25%; 
+    font-weight: 500;
+    transform: translate(-50%, -50%); 
+    color: #fff; 
+    font-size: 45px; 
+    text-align: center;
+  }
+  .Over_text2{
+    position: absolute;
+    top: 45%; 
+    left: 25%; 
+    font-weight: 500;
+    transform: translate(-50%, -50%); 
+    color: #fff; 
+    font-size: 32px; 
+    text-align: center;c
+  }
+  .Over_text3{
+    position: absolute;
+    top: 5%; 
+    left: 10%; 
+    transform: translate(-50%, -50%); 
+    color: #fff; 
+    font-size: 20px; 
+    text-align: center;c
+  }
+  .Over_text4{
+    position: absolute;
+    top: 5%; 
+    left: 77%; 
+    transform: translate(-50%, -50%); 
+    color: #fff; 
+    font-size: 15px; 
+    text-align: center;c
+  }
+  .Over_text5{
+    position: absolute;
+    top: 5%; 
+    left: 82%; 
+    transform: translate(-50%, -50%); 
+    color: #fff; 
+    font-size: 15px; 
+    text-align: center;c
+  }
+  .Over_text6{
+    position: absolute;
+    top: 5%; 
+    left: 87%; 
+    transform: translate(-50%, -50%); 
+    color: #fff; 
+    font-size: 15px; 
+    text-align: center;c
+  }
+  .Over_text7{
+    position: absolute;
+    top: 5%; 
+    left:92%; 
+    transform: translate(-50%, -50%); 
+    color: #fff; 
+    font-size: 15px; 
+    text-align: center;
+  }
+  .Over_text8{
+    position: absolute;
+    top: 5%; 
+    left:97%; 
+    transform: translate(-50%, -50%); 
+    color: #fff; 
+    font-size: 15px; 
+    text-align: center;
+  }
+  .About_me_container {
+    position: relative;
+    display: inline-block;
+  }
+  .my_image2{
+    width: 45%;
+    height: 50%;
+    margin-top:2% ;
+    }
+.About_me_container{
+    margin-top: 2%;
+    margin-bottom: 10%;
+    margin-right: 15%;
+    margin-left: 1%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.about_me{
+    display: flex;
+    margin-top: 12%;
+    margin-left: 50%;
+   
+   font-size: 35px;
+   font-weight: 500;
+}
+.about_me1{
+   
+    margin-left: 4%;
+    display: table-cell;
+    vertical-align: middle;
+    align-items: flex-end;  /* align-items: center;  */
+   color: rgb(61, 61, 61);
+  
+  
+}
+.para2{
+    margin-top: 6%; 
+}
+.Skills1{
+    display: flex;
+    margin-top: 2%;
+    margin-left: 45%;
+   
+   font-size: 45px;
+   font-weight: 500;
+  
+   
+}
+.skill1{
+    margin-top: 2%;
+    display:flex;
+    /* box-sizing: content-box; */
+  
+    justify-content: space-evenly;
+}
+
+.text1{
+    width: 350px;
+    height: 250px;
+    border: 2px solid rgb(186, 186, 186);
+    background: rgb(255, 255, 252);
+}
+.text1 h1{
+  
+   margin-top: 2%;
+   font-size: 33px;
+   margin-left: 5%;
+}
+
+.text2{
+    width: 350px;
+    height: 250px;
+    border: 2px solid rgb(186, 186, 186);
+    background: rgb(255, 255, 252);
+}
+.text2 h1{
+    margin-top: 2%;
+    margin-left: 5%;
+    font-size: 33px;
+}
+.text2 p{
+    margin-top: 2%;
+    margin-left: 5%;
+    font-size: 23px;
+}
+.text3{
+    width: 350px;
+    height: 250px;
+    border: 2px solid rgb(186, 186, 186);
+    background: rgb(255, 255, 252);
+}
+.text3 h1{
+    margin-top: 2%;
+    margin-left: 5%;
+    font-size: 33px;
+}
+.text3 p{
+    margin-top: 2%;
+    margin-left: 5%;
+    font-size: 23px;
+}
+.skill2{
+    margin-top: 2%;
+    display:flex;
+    /* box-sizing: content-box; */
+  
+    justify-content: space-evenly;
+    margin-bottom: 10%;
+}
+.Portfolio{
+    display: flex;
+    margin-top: 12%;
+    margin-left: 42%;
+   
+   font-size: 45px;
+   font-weight: 500;
+}
